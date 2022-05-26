@@ -2,7 +2,7 @@
 import telebot
 from telebot import types
 
-#5245066688:AAHvGL8FZa9cNN1xWe7SCIbVVurx_1bxiRY
+#5245066688:AAHvGL8FZa9cNN1xWe7SCIbVVurx_1bxiRY (токен)
 
 name = ''
 surname = ''
