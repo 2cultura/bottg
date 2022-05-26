@@ -50,7 +50,8 @@ def reg_age(message):
         try:
             age = int(message.text)
         except Exception:
-            bot.send_message(message.from_user.id, "Вводи цифрами блять!")
+            bot.send_message(message.from_user.id, "Вводи цифрами блять!") #except нихуя не работает, бот начинает троить, над разобраться 
+	
 
 
     keyboard = types.InlineKeyboardMarkup()
